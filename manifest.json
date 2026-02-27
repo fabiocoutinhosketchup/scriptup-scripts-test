@@ -1,9 +1,9 @@
 {
   "scripts_url": "https://raw.githubusercontent.com/fabiocoutinhosketchup/scriptup-scripts-test/main/scripts.json",
-  "scripts_version": "002",
+  "scripts_version": "003",
   "release_notes": {
-    "pt": "Adicionados: Tour Virtual",
-    "en": "Adicionados: Tour Virtual",
-    "es": "Adicionados: Tour Virtual"
+    "pt": "Atualização em lote: 43 novo(s), 0 removido(s).",
+    "en": "Atualização em lote: 43 novo(s), 0 removido(s).",
+    "es": "Atualização em lote: 43 novo(s), 0 removido(s)."
   }
 }
