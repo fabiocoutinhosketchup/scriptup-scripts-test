@@ -1,9 +1,10 @@
 {
   "scripts_url": "https://raw.githubusercontent.com/fabiocoutinhosketchup/scriptup-scripts-test/main/scripts.json",
-  "scripts_version": "003",
+  "icons_url": "https://raw.githubusercontent.com/.../script_icons.json",
+  "scripts_version": "001",
   "release_notes": {
-    "pt": "Atualização em lote: 43 novo(s), 0 removido(s).",
-    "en": "Atualização em lote: 43 novo(s), 0 removido(s).",
-    "es": "Atualização em lote: 43 novo(s), 0 removido(s)."
+    "pt": "Novo",
+    "en": "Novo",
+    "es": "Novo"
   }
 }
